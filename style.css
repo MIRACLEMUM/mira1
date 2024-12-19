@@ -131,3 +131,10 @@ button:hover{
     border-radius: 50px;
 }
 
+@media (max-width:480px){
+   .navdiv   {
+         display: block;
+         font-size:20px ;
+    }
+
+}
